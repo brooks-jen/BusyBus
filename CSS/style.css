@@ -44,6 +44,7 @@ h3 {
   width:375px;
   height: 70px;
   background-color: #3B842C;
+  box-shadow: 0px 13px 10px -2px black;
   background-position:top;
   background-image: url(../images/Status.png);
   background-repeat: no-repeat;
